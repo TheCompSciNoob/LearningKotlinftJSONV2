@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LearningKotlinftJSON V2</string>
+    <string name="last_input_id">last input</string>
 </resources>
